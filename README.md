@@ -1,2 +1,2 @@
-# ICSI-Certified-Network-Security-Specialist-CNSS-
+# ICSI-Certified-Network-Security-Specialist-CNSS
 Course notes an references
